@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "estudos.sln",
+    "csharp.debug.console": "externalTerminal"
+}

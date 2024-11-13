@@ -1,0 +1,14 @@
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\aula\estudos\bin\Debug\net8.0\estudos.exe
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\aula\estudos\bin\Debug\net8.0\estudos.deps.json
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\aula\estudos\bin\Debug\net8.0\estudos.runtimeconfig.json
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\aula\estudos\bin\Debug\net8.0\estudos.dll
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\aula\estudos\bin\Debug\net8.0\estudos.pdb
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\aula\estudos\obj\Debug\net8.0\estudos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\aula\estudos\obj\Debug\net8.0\estudos.AssemblyInfoInputs.cache
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\aula\estudos\obj\Debug\net8.0\estudos.AssemblyInfo.cs
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\aula\estudos\obj\Debug\net8.0\estudos.csproj.CoreCompileInputs.cache
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\aula\estudos\obj\Debug\net8.0\estudos.dll
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\aula\estudos\obj\Debug\net8.0\refint\estudos.dll
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\aula\estudos\obj\Debug\net8.0\estudos.pdb
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\aula\estudos\obj\Debug\net8.0\estudos.genruntimeconfig.cache
+C:\Users\sflorenc\OneDrive - Capgemini\Documents\aula\estudos\obj\Debug\net8.0\ref\estudos.dll
